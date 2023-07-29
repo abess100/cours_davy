@@ -1,0 +1,21 @@
+ body{
+background-color:#F39EEc;
+ }
+ .ka{
+    width: 50%;
+ }
+#go{
+    display:flex;
+    margin:200px;
+}
+.so{
+    border-radius:100px;
+    
+}
+.ca{
+    border: dashed red;
+    text-decoration:underline;
+ text-align: center;
+ width: 50%;
+ padding-top:25%;
+}
